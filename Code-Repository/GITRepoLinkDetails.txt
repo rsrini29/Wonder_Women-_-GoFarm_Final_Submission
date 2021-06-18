@@ -1,0 +1,5 @@
+GIT Repo Link Details:
+==========================
+Services Module: https://github.com/rsrini29/organic-farming-service
+
+UI Module : https://github.com/rsrini29/Organic_Farming
